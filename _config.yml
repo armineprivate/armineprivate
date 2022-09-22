@@ -21,10 +21,10 @@ title_separator          : "-"
 subtitle                 : "Portfolio Website" # site tagline that appears below site title in masthead
 name                     : "Armin Goudarzi"
 description              : "Armin Goudarzi (visual artist)."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://armineprivate.github.io/"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "armineprivate/armineprivate" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "assets/images/default_teaser.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "assets/images/teaser/default.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "assets/images/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Armin Goudarzi, Visual Artist" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -128,13 +128,16 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/goudarzi_armin"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCMtUIVK5LxKYARQzDEUPV_A"
 
 # Site Footer
 footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:armineprivate@gmail.com"
+      #url: "mailto:armineprivate@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
