@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : "Portfolio Website" # site tagline that appears below site title in masthead
 name                     : "Armin Goudarzi"
 description              : "Armin Goudarzi (visual artist)."
-url                      : "https://armineprivate.github.io"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "armin-goudarzi.com"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "armineprivate/armineprivate" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "assets/images/teaser/default.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
