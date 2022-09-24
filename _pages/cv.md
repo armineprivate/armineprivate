@@ -1,7 +1,7 @@
 ---
 title: "Curriculum Vitae"
 permalink: /cv/
-excerpt: "what a wonderfull person"
+excerpt: "Armin Goudarzi"
 layout: single
 author_profile: true
 header:
