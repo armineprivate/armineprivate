@@ -25,7 +25,7 @@ url                      : "https://armineprivate.github.io/"  # the base hostna
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "armineprivate/armineprivate" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "assets/images/teaser/default.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "assets/images/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "assets/images/new-logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Armin Goudarzi, Visual Artist" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
