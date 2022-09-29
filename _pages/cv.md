@@ -79,4 +79,10 @@ toc_sticky: true
 
 ## Skills & Abilities
 
-- Concept Art , Art, Fine Art, Digital Art , Contemporary Art, Poster Design, Logo Design, Art Education, Lifeguarding, Film Editing, Sculpture, Video Art, Carpentry, Art Research, Figure Painting , Printmaking, Drawing , Oil Painting , Photography, Adobe Premiere Pro, Adobe Photoshop
+- Art, Fine Art, Concept Art, Digital Art, Video Art, Contemporary Art, Art Education, Art Research
+
+- Painting, Figure Painting, Oil Painting, Printmaking, Drawing, Sculpture, Photography 
+
+- Poster Design, Logo Design, Adobe Premiere Pro, Adobe Photoshop, Film Editing
+
+- Carpentry, Lifeguarding 
