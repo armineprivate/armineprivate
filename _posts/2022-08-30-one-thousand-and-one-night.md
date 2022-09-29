@@ -1,13 +1,14 @@
 ---
 layout: single
 title: "One Thousand and One Nights"
-excerpt: "googooli"
+excerpt: ""
 permalink: /works/one-thousand-and-one-nights
 tags:
   - painting
   - figurative
 header:
   image: assets/images/header/cell.png
+  teaser: assets/images/one-thousand and-one-nights/image1.jpg
 gallery1:
   - url: assets/images/one-thousand and-one-nights/image1.jpg
     image_path: assets/images/one-thousand and-one-nights/image1.jpg
