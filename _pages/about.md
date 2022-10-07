@@ -9,12 +9,9 @@ header:
   overlay_image: assets/images/header/cell.png
 ---
 
-I can describe myself as a curious, insurgent and creative artist and a bit of an idealist. I graduated in painting from the University of Tehran. During my studies I used different tools, techniques and media, from visual arts to cinema and literature, to make projects and this approach continues until today. I think that reality and imagination are the words closest to my works, the title of one of my projects.
-Classic art fascinates me, but at the same time I am passionate about modern art, especially works that are very calm and deep, and look like a space for reflection and spirituality. What fascinates me is a kind of revelation during improvising and it is very prominent in my works.
-I am interested in philosophy, psychology and also myth except that creating a work of art is the most pleasant business for me, and I do it sometimes with filming, sometimes with drawing etc. 
-I have been working as an artist for twelve years and had four group exhibitions and two solo exhibitions in Tehran and Karaj. I participated in several festivals and workshops such as the festival of religious arts.
+I can describe myself as a curious, insurgent, and creative artist and a bit of an idealist. I graduated in painting from the University of Tehran. Throughout my education, I made use of a wide range of tools, techniques, and mediums, from the visual arts to cinema and literature, and this practice has continued into my professional life until today. The mystical realm of art has always fascinated me since it combines elements of imagination and reality to reveal the truth. I believe the term “Reality and Imagination,” which was the title of my earliest project, best describes my work, which includes elements of both.
+Classical art fascinates me, but I also have a passion for contemporary art that exudes a sense of serenity and depth, creating an atmosphere conducive to contemplation and spirituality. What inspires me is a kind of revelation I have while improvising, which is particularly prominent in my works.
+I take inspiration from philosophy, psychology, and mythology. In parallel to creating art pieces as the defining pillar of my identity, I try to engage in literature, filmmaking, and other endeavors, aiming to expand my life’s and profession’s horizons.
+I have worked professionally as an artist for twelve years and have had five solo and four group exhibitions in Tehran, Shiraz, and Karaj. I participated in several festivals and workshops, all listed in my CV section.
 
-
-“Being different is neither a good nor a bad thing. It just means brave to be yourself." 
-
-Albert Camus
+“Being different is neither a good nor a bad thing. It just means being brave enough to be yourself.“ Albert Camus
