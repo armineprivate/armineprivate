@@ -6,7 +6,7 @@ layout: single
 classes: wide
 author_profile: true
 header:
-  overlay_image: assets/images/header/cell.png
+  overlay_image: # assets/images/header/cell.png
 ---
 
 I can describe myself as a curious, insurgent, and creative artist and a bit of an idealist. I graduated in painting from the University of Tehran. Throughout my education, I made use of a wide range of tools, techniques, and mediums, from the visual arts to cinema and literature, and this practice has continued into my professional life until today. The mystical realm of art has always fascinated me since it combines elements of imagination and reality to reveal the truth. I believe the term “Reality and Imagination,” which was the title of my earliest project, best describes my work, which includes elements of both.
