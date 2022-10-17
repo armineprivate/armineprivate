@@ -54,6 +54,11 @@ gallery5:
     image_path: assets/images/abstract-works/abstract-works10.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
+gallery6:
+  - url: assets/images/abstract-works/abstract-works12.jpg
+    image_path: assets/images/abstract-works/abstract-works12.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
 ---
 
 {% include gallery id="gallery1" class="full" caption="Inck and pencil on paper" %}
@@ -72,3 +77,5 @@ kjb
 {% include gallery id="gallery4" class="full" layout="half" caption="acrylic on cardboard" %}
 
 {% include gallery id="gallery5" class="full" caption="Oil painting on canvas" %}
+
+{% include gallery id="gallery6" class="full" caption="Oil painting on canvas" %}
