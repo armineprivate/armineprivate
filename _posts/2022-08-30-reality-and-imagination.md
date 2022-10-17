@@ -7,7 +7,7 @@ tags:
   - painting
   - figurative
 header:
-  image: assets/images/header/header-1.png
+  image: assets/images/header/cell.png
   teaser: assets/images/reality-and-imagination/im2.jpg 
 gallery1:
   - url: assets/images/reality-and-imagination/im2.jpg

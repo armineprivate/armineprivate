@@ -8,7 +8,7 @@ tags:
   - figurative
 header:
   image: assets/images/header/cell.png
-  teaser: assets/images/unknown-moment/im1.jpg 
+  teaser: assets/images/unknown-moment/im3.jpg 
 gallery1:
   - url: assets/images/unknown-moment/im1.jpg
     image_path: assets/images/unknown-moment/im1.jpg
@@ -79,6 +79,10 @@ gallery2:
     image_path: assets/images/unknown-moment/im17.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
+  - url: assets/images/unknown-moment/im1.jpg
+    image_path: assets/images/unknown-moment/im1.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"	
 gallery3:
   - url: assets/images/unknown-moment/im18.jpg
     image_path: assets/images/unknown-moment/im18.jpg
