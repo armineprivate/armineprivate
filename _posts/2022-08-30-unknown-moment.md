@@ -8,80 +8,80 @@ tags:
   - figurative
 header:
   image: assets/images/header/cell.png
-  teaser: assets/images/unknown-moment/image1.jpg 
+  teaser: assets/images/unknown-moment/im1.jpg 
 gallery1:
-  - url: assets/images/unknown-moment/image1.jpg
-    image_path: assets/images/unknown-moment/image1.jpg
+  - url: assets/images/unknown-moment/im1.jpg
+    image_path: assets/images/unknown-moment/im1.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 gallery2:
-  - url: assets/images/unknown-moment/image2.jpg
-    image_path: assets/images/unknown-moment/image2.jpg
+  - url: assets/images/unknown-moment/im2.jpg
+    image_path: assets/images/unknown-moment/im2.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: assets/images/unknown-moment/image3.jpg
-    image_path: assets/images/unknown-moment/image3.jpg
+  - url: assets/images/unknown-moment/im3.jpg
+    image_path: assets/images/unknown-moment/im3.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: assets/images/unknown-moment/image4.jpg
-    image_path: assets/images/unknown-moment/image4.jpg
+  - url: assets/images/unknown-moment/im4.jpg
+    image_path: assets/images/unknown-moment/im4.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: assets/images/unknown-moment/image5.jpg
-    image_path: assets/images/unknown-moment/image5.jpg
+  - url: assets/images/unknown-moment/im5.jpg
+    image_path: assets/images/unknown-moment/im5.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: assets/images/unknown-moment/image6.jpg
-    image_path: assets/images/unknown-moment/image6.jpg
+  - url: assets/images/unknown-moment/im6.jpg
+    image_path: assets/images/unknown-moment/im6.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: assets/images/unknown-moment/image7.jpg
-    image_path: assets/images/unknown-moment/image7.jpg
+  - url: assets/images/unknown-moment/im7.jpg
+    image_path: assets/images/unknown-moment/im7.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: assets/images/unknown-moment/image8.jpg
-    image_path: assets/images/unknown-moment/image8.jpg
+  - url: assets/images/unknown-moment/im8.jpg
+    image_path: assets/images/unknown-moment/im8.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: assets/images/unknown-moment/image9.jpg
-    image_path: assets/images/unknown-moment/image9.jpg
+  - url: assets/images/unknown-moment/im9.jpg
+    image_path: assets/images/unknown-moment/im9.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: assets/images/unknown-moment/image10.jpg
-    image_path: assets/images/unknown-moment/image10.jpg
+  - url: assets/images/unknown-moment/im10.jpg
+    image_path: assets/images/unknown-moment/im10.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: assets/images/unknown-moment/image11.jpg
-    image_path: assets/images/unknown-moment/image11.jpg
+  - url: assets/images/unknown-moment/im11.jpg
+    image_path: assets/images/unknown-moment/im11.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: assets/images/unknown-moment/image12.jpg
-    image_path: assets/images/unknown-moment/image12.jpg
+  - url: assets/images/unknown-moment/im12.jpg
+    image_path: assets/images/unknown-moment/im12.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: assets/images/unknown-moment/image13.jpg
-    image_path: assets/images/unknown-moment/image13.jpg
+  - url: assets/images/unknown-moment/im13.jpg
+    image_path: assets/images/unknown-moment/im13.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: assets/images/unknown-moment/image14.jpg
-    image_path: assets/images/unknown-moment/image14.jpg
+  - url: assets/images/unknown-moment/im14.jpg
+    image_path: assets/images/unknown-moment/im14.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: assets/images/unknown-moment/image15.jpg
-    image_path: assets/images/unknown-moment/image15.jpg
+  - url: assets/images/unknown-moment/im15.jpg
+    image_path: assets/images/unknown-moment/im15.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: assets/images/unknown-moment/image16.jpg
-    image_path: assets/images/unknown-moment/image16.jpg
+  - url: assets/images/unknown-moment/im16.jpg
+    image_path: assets/images/unknown-moment/im16.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: assets/images/unknown-moment/image17.jpg
-    image_path: assets/images/unknown-moment/image17.jpg
+  - url: assets/images/unknown-moment/im17.jpg
+    image_path: assets/images/unknown-moment/im17.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 gallery3:
-  - url: assets/images/unknown-moment/image18.jpg
-    image_path: assets/images/unknown-moment/image18.jpg
+  - url: assets/images/unknown-moment/im18.jpg
+    image_path: assets/images/unknown-moment/im18.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"	
 ---

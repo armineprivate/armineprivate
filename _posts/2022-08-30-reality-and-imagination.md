@@ -8,28 +8,28 @@ tags:
   - figurative
 header:
   image: assets/images/header/header-1.png
-  teaser: assets/images/reality-and-imagination/image2.jpg 
+  teaser: assets/images/reality-and-imagination/im2.jpg 
 gallery1:
-  - url: assets/images/reality-and-imagination/image2.jpg
-    image_path: assets/images/reality-and-imagination/image2.jpg
+  - url: assets/images/reality-and-imagination/im2.jpg
+    image_path: assets/images/reality-and-imagination/im2.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 gallery2:
-  - url: assets/images/reality-and-imagination/image1.jpg
-    image_path: assets/images/reality-and-imagination/image1.jpg
+  - url: assets/images/reality-and-imagination/im1.jpg
+    image_path: assets/images/reality-and-imagination/im1.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: assets/images/reality-and-imagination/image3.jpg
-    image_path: assets/images/reality-and-imagination/image3.jpg
+  - url: assets/images/reality-and-imagination/im3.jpg
+    image_path: assets/images/reality-and-imagination/im3.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 gallery3:
-  - url: assets/images/reality-and-imagination/image4.jpg
-    image_path: assets/images/reality-and-imagination/image4.jpg
+  - url: assets/images/reality-and-imagination/im4.jpg
+    image_path: assets/images/reality-and-imagination/im4.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: assets/images/reality-and-imagination/image5.jpg
-    image_path: assets/images/reality-and-imagination/image5.jpg
+  - url: assets/images/reality-and-imagination/im5.jpg
+    image_path: assets/images/reality-and-imagination/im5.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 ---

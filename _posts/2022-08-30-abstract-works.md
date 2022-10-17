@@ -50,13 +50,8 @@ gallery4:
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 gallery5:
-  - url: assets/images/abstract-works/abstract-works10.jpg
-    image_path: assets/images/abstract-works/abstract-works10.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-gallery6:
-  - url: assets/images/abstract-works/abstract-works12.jpg
-    image_path: assets/images/abstract-works/abstract-works12.jpg
+  - url: assets/images/abstract-works/image10.jpg
+    image_path: assets/images/abstract-works/image10.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 ---
@@ -78,4 +73,3 @@ kjb
 
 {% include gallery id="gallery5" class="full" caption="Oil painting on canvas" %}
 
-{% include gallery id="gallery6" class="full" caption="Oil painting on canvas" %}
