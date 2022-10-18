@@ -47,16 +47,16 @@ gallery2:
     image_path: assets/images/photography/image9.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: assets/images/photography/image10.jpg
-    image_path: assets/images/photography/image10.jpg
+  - url: assets/images/photography/im10.jpg
+    image_path: assets/images/photography/im10.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: assets/images/photography/image11.jpg
     image_path: assets/images/photography/image11.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: assets/images/photography/image12.jpg
-    image_path: assets/images/photography/image12.jpg
+  - url: assets/images/photography/im12.jpg
+    image_path: assets/images/photography/im12.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: assets/images/photography/image1.jpg
