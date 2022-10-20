@@ -68,6 +68,9 @@ toc_sticky: true
 - 2020 &emsp; Graphic Designer &emsp; Bi-Kerayeh TV Show
 - 2018 &emsp; Film Editor &emsp; Cinema-Guneh TV Show
 
+## Publish
+- 2014 &emsp; Analyzing Jacque-Louis David’s Neo-Classical Techniques (focusing on the Death of Socrates)
+
 ## Teaching
 
 - 2017-2021 &emsp; Educator of Painting and Drawing &emsp; Rang Avaz Institution of Art
