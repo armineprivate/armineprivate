@@ -4,7 +4,7 @@ title: "photography"
 excerpt: ""
 permalink: /works/photography
 tags:
-  - phootography
+  - photography
 header:
   image: assets/images/header/cell.png
   teaser: assets/images/photography/image1.jpg 
