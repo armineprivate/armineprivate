@@ -58,12 +58,9 @@ gallery5:
 
 {% include gallery id="gallery1" class="full" caption="Inck and pencil on paper" %}
 
-
-jygjh
-
-mhghgchgcvhgvbm
-khgujljk
-kjb
+For me, abstract painting is a mechanism to release the mind’s uncontrollable psychologic forces. This is where I set everything free to destroy, build and then destroy once more. This is where I surrender to the subconscious and let the emotions rise from the ashes to forge something with a unique spirit. Here, rage, anger, hatred, pain, and suffering speak up openly. Maybe we should dig for everyone’s reality right here.
+In general, when I paint an abstract piece, I do not concentrate on the tools and techniques. I employ both conventional and unconventional methods, such as (but not limited to) tinkering with colors, striking with a brush, setting on fire, and tearing. These choices all depend on the mental state and the creative process.
+I believe abstract works are more personal to me because they are less understood by others. These are part of my loneliness.
 
 {% include gallery id="gallery2" class="full" layout="half" caption="Mixed media on canvas" %}
 

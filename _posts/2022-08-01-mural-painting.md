@@ -58,12 +58,8 @@ gallery5:
 
 {% include gallery id="gallery1" class="full" caption="gdhghjjfjhf" %}
 
-
-jygjh
-
-mhghgchgcvhgvbm
-khgujljk
-kjb
+Despite the fact that mural painting is typically considered in Iran as a source of income rather than an original performance of art, I tried to draw my ideas regardless of restrictions and limitations. Overall, that is why most of my ideas remained at the design stage and have not been implemented, with the exception of projects where the client granted me complete freedom; like the mural painting at Tehran Pars High School, which was largely improvised.
+From my viewpoint, mural painting has been more of an interactive experience with the city and the people rather than only producing artwork.
 
 {% include gallery id="gallery2" class="full" layout="half" caption="gdhghjjfjhf" %}
 

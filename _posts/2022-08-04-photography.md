@@ -191,11 +191,7 @@ gallery6:
 {% include gallery id="gallery1" class="full" caption="gdhghjjfjhf" %}
 
 
-jygjh
-
-mhghgchgcvhgvbm
-khgujljk
-kjb
+I learned photography professionally from Mohsen Rastani while I was in college. I spent two years working as a press photographer after college, learning the ins and outs of being a photographer. Over the past years, I have utilized photography as a medium to make art as well as to visually study and document information over the years.
 
 {% include gallery id="gallery2" class="full" layout="third" caption="gdhghjjfjhf" %}
 

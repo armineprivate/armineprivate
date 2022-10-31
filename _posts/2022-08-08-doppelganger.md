@@ -54,7 +54,8 @@ gallery2:
 {% include gallery id="gallery1" class="full" caption="Charcoal and inck on paper" %}
 
 
-In this collection entitled image, I wanted to indicate the emotions of people by using deformation. I chose this way to present characters that hide behind their faces. It looks like we share our personality with the Unknown under psychological conflicts. The non-relevant details are to deceive the mind and also to show the superficial dimension of personality.
+When people are lonely and struggling with mental conflicts, It feels as though they are sharing their personality and existence with an unknown other.
+In this collection entitled doppelganger, I wanted to use deformation to convey the subject’s emotions alongside unknown faces. My intention was to expose people’s personalities along with what is hidden deep beneath their faces and lives. The details and embellishments here are irrelevant and are only to deceive the mind and show the superficial side of the personality.
 
 
 {% include gallery id="gallery2" class="full" layout="third" caption="" %}

@@ -49,8 +49,7 @@ gallery3:
 {% include gallery id="gallery1" class="full" caption="Charcoal and inck on paper" %}
 
 
-In this collection entitled image, I wanted to indicate the emotions of people by using deformation. I chose this way to present characters that hide behind their faces. It looks like we share our personality with the Unknown under psychological conflicts. The non-relevant details are to deceive the mind and also to show the superficial dimension of personality.
-
+I occasionally create tiny wooden sculptures to better understand and experience with the three-dimensional space in art. I use simple and basic tools to make these art pieces from discarded wood blocks. The sculptures, which resemble chess pieces or totems, were made improvised and without a prior design, just like most of my works. For me, creating these miniature sculptures is always a delightful and pure experience.
 
 {% include gallery id="gallery2" class="full" layout="third" caption="" %}
 
