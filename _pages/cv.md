@@ -49,6 +49,9 @@ toc_sticky: true
 - 2013 &emsp; Minute Works &emsp; Saba Gallery
 - 2010 &emsp; Selected Students' Drawings &emsp; Tehran Gallery
 
+## Publication
+- 2014 &emsp; Analyzing Jacque-Louis David’s Neo-Classical Techniques (focusing on the Death of Socrates)
+
 ## Other Projects
 
 - 2017 &emsp; Mural Painting &emsp; Mehr Complex, Pardis, Iran
@@ -67,9 +70,6 @@ toc_sticky: true
 - 2021 &emsp; Backstage Photographer &emsp; Tayyebeh Khanum Documentary Movie
 - 2020 &emsp; Graphic Designer &emsp; Bi-Kerayeh TV Show
 - 2018 &emsp; Film Editor &emsp; Cinema-Guneh TV Show
-
-## Publish
-- 2014 &emsp; Analyzing Jacque-Louis David’s Neo-Classical Techniques (focusing on the Death of Socrates)
 
 ## Teaching
 
