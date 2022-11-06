@@ -7,7 +7,7 @@ tags:
   - sculpture
 header:
   image: assets/images/header/cell.png
-  teaser: assets/images/sculpture/image1.jpg 
+  teaser: assets/images/teaser/sculpture.jpg 
 gallery1:
   - url: assets/images/sculpture/image1.jpg
     image_path: assets/images/sculpture/image1.jpg

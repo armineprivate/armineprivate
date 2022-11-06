@@ -8,7 +8,7 @@ tags:
   - figurative
 header:
   image: assets/images/header/cell.png
-  teaser: assets/images/passing-faces/image1.jpg 
+  teaser: assets/images/teaser/passing-faces.jpg 
 gallery1:
   - url: assets/images/passing-faces/image1.jpg
     image_path: assets/images/passing-faces/image1.jpg

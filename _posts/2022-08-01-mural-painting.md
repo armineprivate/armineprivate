@@ -8,7 +8,7 @@ tags:
   - mural painting
 header:
   image: assets/images/header/cell.png
-  teaser: assets/images/mural-painting/image1.jpg 
+  teaser: assets/images/teaser/mural-painting.jpg 
 gallery1:
   - url: assets/images/mural-painting/image1.jpg
     image_path: assets/images/mural-painting/image1.jpg

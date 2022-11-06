@@ -8,7 +8,7 @@ tags:
   - figurative
 header:
   image: assets/images/header/cell.png
-  teaser: assets/images/unknown-moment/im3.jpg 
+  teaser: assets/images/teaser/unknown-moment.jpg 
 gallery1:
   - url: assets/images/unknown-moment/im1.jpg
     image_path: assets/images/unknown-moment/im1.jpg

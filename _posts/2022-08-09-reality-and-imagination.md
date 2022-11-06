@@ -8,7 +8,7 @@ tags:
   - figurative
 header:
   image: assets/images/header/cell.png
-  teaser: assets/images/reality-and-imagination/im2.jpg 
+  teaser: assets/images/teaser/reality-and-imagination.jpg 
 gallery1:
   - url: assets/images/reality-and-imagination/im2.jpg
     image_path: assets/images/reality-and-imagination/im2.jpg

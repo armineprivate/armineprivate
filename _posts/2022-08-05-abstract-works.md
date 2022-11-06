@@ -8,7 +8,7 @@ tags:
   - abstract
 header:
   image: assets/images/header/cell.png
-  teaser: assets/images/abstract-works/abstract-works9.jpg
+  teaser: assets/images/teaser/abstract-works.jpg
 gallery1:
   - url: assets/images/abstract-works/abstract-works9.jpg
     image_path: assets/images/abstract-works/abstract-works9.jpg

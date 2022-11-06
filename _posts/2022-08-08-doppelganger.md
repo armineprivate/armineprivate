@@ -9,7 +9,7 @@ tags:
   - figurative
 header:
   image: assets/images/header/cell.png
-  teaser: assets/images/doppelganger/image1.jpg 
+  teaser: assets/images/teaser/doppelganger.jpg 
 gallery1:
   - url: assets/images/doppelganger/image1.jpg
     image_path: assets/images/doppelganger/image1.jpg
