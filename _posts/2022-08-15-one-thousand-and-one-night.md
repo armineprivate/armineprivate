@@ -7,7 +7,7 @@ tags:
   - painting
   - figurative
 header:
-  image: assets/images/header/cell.png
+  image: # assets/images/header/cell.png
   teaser: assets/images/teaser/one-thousand and-one-nights.jpg
 gallery1:
   - url: assets/images/one-thousand and-one-nights/im1.jpg
@@ -58,23 +58,18 @@ gallery7:
     title: "Image 1 title caption"
 ---
 
-{% include gallery id="gallery1" class="full" caption="gdhghjjfjhf" %}
+{% include gallery id="gallery1" class="full" caption="Untitled, oil painting on canvas, 100 * 140 cm" %}
 
 
-jygjh
 
-mhghgchgcvhgvbm
-khgujljk
-kjb
+{% include gallery id="gallery2" class="full" layout="half" caption="" %}
 
-{% include gallery id="gallery2" class="full" layout="half" caption="gdhghjjfjhf" %}
+{% include gallery id="gallery3" class="full" caption="Storyteller, oil painting on canvas, 100 * 120 cm" %}
 
-{% include gallery id="gallery3" class="full" caption="gdhghjjfjhf" %}
+{% include gallery id="gallery4" class="full" caption="Woman's Party, oil painting on canvas, 190 * 150 cm" %}
 
-{% include gallery id="gallery4" class="full" caption="gdhghjjfjhf" %}
+{% include gallery id="gallery5" class="full" caption="Story, oil painting on canvas, 100 * 140 cm" %}
 
-{% include gallery id="gallery5" class="full" caption="gdhghjjfjhf" %}
+{% include gallery id="gallery6" class="full" caption="Woman Life Freedom, oil painting on canvas, 100* 140 cm" %}
 
-{% include gallery id="gallery6" class="full" caption="gdhghjjfjhf" %}
-
-{% include gallery id="gallery7" class="full" layout="third" caption="gdhghjjfjhf" %}
+{% include gallery id="gallery7" class="full" layout="third" caption="" %}

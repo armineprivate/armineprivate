@@ -8,7 +8,7 @@ tags:
   - portrait
   - figurative
 header:
-  image: assets/images/header/cell.png
+  image: # assets/images/header/cell.png
   teaser: assets/images/teaser/doppelganger.jpg 
 gallery1:
   - url: assets/images/doppelganger/image1.jpg
@@ -51,7 +51,7 @@ gallery2:
 ---
 
 
-{% include gallery id="gallery1" class="full" caption="Charcoal and inck on paper" %}
+{% include gallery id="gallery1" class="full" caption="Doppelganger, charcoal and inck on paper, 30 * 42 cm" %}
 
 
 When people are lonely and struggling with mental conflicts, It feels as though they are sharing their personality and existence with an unknown other.

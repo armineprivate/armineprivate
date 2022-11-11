@@ -6,7 +6,7 @@ permalink: /works/sculpture
 tags:
   - sculpture
 header:
-  image: assets/images/header/cell.png
+  image: # assets/images/header/cell.png
   teaser: assets/images/teaser/sculpture.jpg 
 gallery1:
   - url: assets/images/sculpture/image1.jpg
@@ -46,7 +46,7 @@ gallery3:
 ---
 
 
-{% include gallery id="gallery1" class="full" caption="Charcoal and inck on paper" %}
+{% include gallery id="gallery1" class="full" caption="" %}
 
 
 I occasionally create tiny wooden sculptures to better understand and experience with the three-dimensional space in art. I use simple and basic tools to make these art pieces from discarded wood blocks. The sculptures, which resemble chess pieces or totems, were made improvised and without a prior design, just like most of my works. For me, creating these miniature sculptures is always a delightful and pure experience.

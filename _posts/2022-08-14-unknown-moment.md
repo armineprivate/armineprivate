@@ -7,7 +7,7 @@ tags:
   - painting
   - figurative
 header:
-  image: assets/images/header/cell.png
+  image: # assets/images/header/cell.png
   teaser: assets/images/teaser/unknown-moment.jpg 
 gallery1:
   - url: assets/images/unknown-moment/im1.jpg
@@ -83,22 +83,13 @@ gallery2:
     image_path: assets/images/unknown-moment/im1.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"	
-gallery3:
-  - url: assets/images/unknown-moment/im18.jpg
-    image_path: assets/images/unknown-moment/im18.jpg
+  - url: assets/images/unknown-moment/im19.jpg
+    image_path: assets/images/unknown-moment/im19.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"	
 ---
 
-{% include gallery id="gallery1" class="full" caption="gdhghjjfjhf" %}
+{% include gallery id="gallery1" class="full" caption="Unknown Moment, oil painting on canvas, 50 * 50 cm" %}
 
 
-jygjh
-
-mhghgchgcvhgvbm
-khgujljk
-kjb
-
-{% include gallery id="gallery2" class="full" layout="third" caption="gdhghjjfjhf" %}
-
-{% include gallery id="gallery3" class="full" caption="gdhghjjfjhf" %}
+{% include gallery id="gallery2" class="full" layout="third" caption="" %}

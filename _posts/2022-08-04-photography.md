@@ -6,11 +6,11 @@ permalink: /works/photography
 tags:
   - photography
 header:
-  image: assets/images/header/cell.png
+  image: # assets/images/header/cell.png
   teaser: assets/images/teaser/photography.jpg 
 gallery1:
-  - url: assets/images/photography/image1.jpg
-    image_path: assets/images/photography/image1.jpg
+  - url: assets/images/photography/image37.jpg
+    image_path: assets/images/photography/image37.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 gallery2:
@@ -188,17 +188,17 @@ gallery6:
     title: "Image 1 title caption"		
 ---
 
-{% include gallery id="gallery1" class="full" caption="gdhghjjfjhf" %}
+{% include gallery id="gallery1" class="full" caption="" %}
 
 
 I learned photography professionally from Mohsen Rastani while I was in college. I spent two years working as a press photographer after college, learning the ins and outs of being a photographer. Over the past years, I have utilized photography as a medium to make art as well as to visually study and document information over the years.
 
-{% include gallery id="gallery2" class="full" layout="third" caption="gdhghjjfjhf" %}
+{% include gallery id="gallery2" class="full" layout="third" caption="Tayyebeh Khanum's backstage, 2021" %}
 
-{% include gallery id="gallery3" class="full" layout="third" caption="gdhghjjfjhf" %}
+{% include gallery id="gallery3" class="full" layout="third" caption="Borojerd's nature, 2020" %}
 
-{% include gallery id="gallery4" class="full" layout="third" caption="gdhghjjfjhf" %}
+{% include gallery id="gallery4" class="full" layout="third" caption="Fajr festival 35th, 2016" %}
 
-{% include gallery id="gallery5" class="full" layout="third" caption="gdhghjjfjhf" %}
+{% include gallery id="gallery5" class="full" layout="third" caption="Lorestan's nature, 2020" %}
 
-{% include gallery id="gallery6" class="full" layout="third" caption="gdhghjjfjhf" %}
+{% include gallery id="gallery6" class="full" layout="third" caption="Shemshak ski run, 2015" %}

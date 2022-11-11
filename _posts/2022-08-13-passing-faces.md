@@ -7,7 +7,7 @@ tags:
   - painting
   - figurative
 header:
-  image: assets/images/header/cell.png
+  image: # assets/images/header/cell.png
   teaser: assets/images/teaser/passing-faces.jpg 
 gallery1:
   - url: assets/images/passing-faces/image1.jpg
@@ -75,14 +75,8 @@ gallery8:
     alt: "placeholder image 1"
 ---
 
-{% include gallery id="gallery1" class="full" caption="gdhghjjfjhf" %}
+{% include gallery id="gallery1" class="full" caption="Mehrbod, oil paintin on canvas, 50 * 70 cm" %}
 
-
-jygjh
-
-mhghgchgcvhgvbm
-khgujljk
-kjb
 
 {% include gallery id="gallery2" class="full" layout="half" caption="gdhghjjfjhf" %}
 
