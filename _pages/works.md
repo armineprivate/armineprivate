@@ -4,7 +4,7 @@ permalink: /works/
 layout: works
 classes: wide
 author_profile: true
-entries_layout: grid
+entries_layout: list # list or grid	
 header:
   overlay_image: # assets/images/header/cell.png
 ---
