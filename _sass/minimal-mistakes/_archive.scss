@@ -49,6 +49,10 @@
   line-height: initial;
   overflow: hidden;
   text-overflow: ellipsis;
+  a {
+    text-decoration: none;
+  }
+  
 
   a[rel="permalink"]::before {
     content: '';
@@ -225,11 +229,11 @@
 
   .archive__item-teaser {
     @include breakpoint($small) {
-      max-height: 200px;
+      // max-height: 200px;
     }
 
     @include breakpoint($medium) {
-      max-height: 120px;
+      // max-height: 120px;
     }
   }
 }
@@ -349,6 +353,10 @@
 
     .archive__item-teaser {
       margin-bottom: 2em;
+    }
+
+    .archive__item-teaser-list {
+      margin-bottom: 7em;
     }
 
     a.btn::before {
