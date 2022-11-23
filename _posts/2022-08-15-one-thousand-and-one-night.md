@@ -8,7 +8,7 @@ tags:
   - figurative
 header:
   image: # assets/images/header/cell.png
-  teaser: assets/images/teaser/one-thousand and-one-nights.jpg
+  teaser: assets/images/teaser/one-thousand and-one-nights-t.jpg
 gallery1:
   - url: assets/images/one-thousand and-one-nights/im1.jpg
     image_path: assets/images/one-thousand and-one-nights/im1.jpg

@@ -8,7 +8,7 @@ tags:
   - figurative
 header:
   image: # assets/images/header/cell.png
-  teaser: assets/images/teaser/passing-faces.jpg 
+  teaser: assets/images/teaser/passing-faces-t.jpg 
 gallery1:
   - url: assets/images/passing-faces/image1.jpg
     image_path: assets/images/passing-faces/image1.jpg
@@ -75,19 +75,19 @@ gallery8:
     alt: "placeholder image 1"
 ---
 
-{% include gallery id="gallery1" class="full" caption="Mehrbod, oil paintin on canvas, 50 * 70 cm" %}
+{% include gallery id="gallery1" class="full" caption="Mehrbod, oil painting on canvas, 50 * 70 cm" %}
 
 
-{% include gallery id="gallery2" class="full" layout="half" caption="gdhghjjfjhf" %}
+{% include gallery id="gallery2" class="full" layout="half" caption="Oil paintig on canvas, 50 * 70 cm" %}
 
-{% include gallery id="gallery3" class="full" layout="third" caption="gdhghjjfjhf" %}
+{% include gallery id="gallery3" class="full" layout="third" caption="Oil painting on canvas, 100 * 70 cm" %}
 
-{% include gallery id="gallery4" class="full" layout="half" caption="gdhghjjfjhf" %}
+{% include gallery id="gallery4" class="full" layout="half" caption="" %}
 
-{% include gallery id="gallery5" class="full" layout="third" caption="gdhghjjfjhf" %}
+{% include gallery id="gallery5" class="full" layout="third" caption="" %}
 
-{% include gallery id="gallery6" class="full" caption="gdhghjjfjhf" %}
+{% include gallery id="gallery6" class="full" caption="Learak house, oil painting on canvas, 100 * 120 cm" %}
 
-{% include gallery id="gallery7" class="full" layout="half" caption="gdhghjjfjhf" %}
+{% include gallery id="gallery7" class="full" layout="half" caption="" %}
 
-{% include gallery id="gallery8" class="full" caption="gdhghjjfjhf" %}
+{% include gallery id="gallery8" class="full" caption="Maryam, oil paintig on canvas, 100 * 100 cm" %}

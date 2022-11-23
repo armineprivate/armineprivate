@@ -7,7 +7,7 @@ tags:
   - photography
 header:
   image: # assets/images/header/cell.png
-  teaser: assets/images/teaser/photography.jpg 
+  teaser: assets/images/teaser/photography-t.jpg 
 gallery1:
   - url: assets/images/photography/image37.jpg
     image_path: assets/images/photography/image37.jpg

@@ -7,7 +7,7 @@ tags:
   - printmaking
 header:
   image: # assets/images/header/cell.png
-  teaser: assets/images/teaser/printmaking.jpg
+  teaser: assets/images/teaser/default-t.jpg
 gallery1:
   - url: assets/images/printmaking/image1.jpg
     image_path: assets/images/printmaking/image1.jpg
