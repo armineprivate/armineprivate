@@ -77,6 +77,7 @@ gallery8:
 
 {% include gallery id="gallery1" class="full" caption="Mehrbod, oil painting on canvas, 50 * 70 cm" %}
 
+During my stay in <a href="https://www.instagram.com/learak.house/" > Learak House </a>, I portrayed the people whom we lived there with me. To create this collection, snapped pictures of the individuals around me as they went about their daily business, and then blended their states with my innermost feelings The results were pieces that one might say are a college of people's face on my psychical space. This is, in fact, a metaphor for our personal perception of each person around us.
 
 {% include gallery id="gallery2" class="full" layout="half" caption="Oil paintig on canvas, 50 * 70 cm" %}
 

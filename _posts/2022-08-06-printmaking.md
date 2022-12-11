@@ -7,7 +7,7 @@ tags:
   - printmaking
 header:
   image: # assets/images/header/cell.png
-  teaser: assets/images/teaser/default-t.jpg
+  teaser: assets/images/teaser/printmaking.jpg
 gallery1:
   - url: assets/images/printmaking/image1.jpg
     image_path: assets/images/printmaking/image1.jpg
@@ -35,6 +35,27 @@ gallery3:
     image_path: assets/images/printmaking/image6.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
+gallery4:
+  - url: assets/images/printmaking/image7.jpg
+    image_path: assets/images/printmaking/image7.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: assets/images/printmaking/image8.jpg
+    image_path: assets/images/printmaking/image8.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: assets/images/printmaking/image9.jpg
+    image_path: assets/images/printmaking/image9.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: assets/images/printmaking/image11.jpg
+    image_path: assets/images/printmaking/image11.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: assets/images/printmaking/image12.jpg
+    image_path: assets/images/printmaking/image12.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
 ---
 
 {% include gallery id="gallery1" class="full" caption="Untitled, lino print, 21 * 30 cm" %}
@@ -44,6 +65,8 @@ My professional knowledge of printmaking dates to college. We studied a variety 
 After all, unlike other mediums which sometimes tend to be tedious and daunting, I find the printmaking process to be always pleasant and fun. In printmaking, before anything else, I feel engaged with the form, tool, and technique, all of which are a source of tranquility for me.
 
 
-{% include gallery id="gallery2" class="full" layout="third" caption="Untitled, lino print, 21 * 30 cm" %}
+{% include gallery id="gallery2" class="full" layout="third" caption="Untitled, Lino print, 21 * 30 cm" %}
 
-{% include gallery id="gallery3" class="full" layout="half" caption="untitled, mono print, 30 * 42 cm" %}
+{% include gallery id="gallery3" class="full" layout="half" caption="untitled, Mono print, 30 * 42 cm" %}
+
+{% include gallery id="gallery4" class="full" layout="third" caption="untitled, Lino print, 30 * 42 cm" %}
