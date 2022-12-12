@@ -1,20 +1,24 @@
 ---
 title: "Curriculum Vitae"
 permalink: /cv/
-excerpt: "Armin Goudarzi"
+excerpt: ""
 layout: single
 author_profile: true
 header:
-  overlay_image: assets/images/header/cell.png
+  overlay_image: # assets/images/header/cell.png
   actions:
     - label: "Portfolio Booklet"
-      url: "#"
-    - label: "PDF Version"
-      url: "#"
+      url: assets/pdf/armin-goudarzi-portfolio.pdf
+    - label: "CV PDF Version"
+      url: assets/pdf/armin-goudarzi-cv.pdf
 toc: true
 toc_label: Sections
 toc_sticky: true
 ---
+
+[Save Portfolio PDF](/assets/pdf/armin-goudarzi-portfolio.pdf){: .btn .btn--primary}
+[Save CV PDF](/assets/pdf/armin-goudarzi-cv.pdf){: .btn .btn--primary}
+
 ## Contact Information
 
 - **Location:** Tehran, Iran

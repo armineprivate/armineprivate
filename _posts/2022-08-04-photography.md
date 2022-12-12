@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "photography"
+title: "Photography"
 excerpt: ""
 permalink: /works/photography
 tags:
