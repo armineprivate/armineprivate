@@ -13,38 +13,38 @@ gallery1:
   - url: assets/images/abstract-works/abstract-works7.jpg
     image_path: assets/images/abstract-works/abstract-works7.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
 gallery2:
   - url: assets/images/abstract-works/abstract-works1.jpg
     image_path: assets/images/abstract-works/abstract-works1.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
   - url: assets/images/abstract-works/abstract-works2.jpg
     image_path: assets/images/abstract-works/abstract-works2.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
 gallery3:
   - url: assets/images/abstract-works/abstract-works3.jpg
     image_path: assets/images/abstract-works/abstract-works3.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
   - url: assets/images/abstract-works/abstract-works4.jpg
     image_path: assets/images/abstract-works/abstract-works4.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
   - url: assets/images/abstract-works/abstract-works5.jpg
     image_path: assets/images/abstract-works/abstract-works5.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
   - url: assets/images/abstract-works/abstract-works6.jpg
     image_path: assets/images/abstract-works/abstract-works6.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
 gallery4:
   - url: assets/images/abstract-works/image10.jpg
     image_path: assets/images/abstract-works/image10.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
 ---
 
 {% include gallery id="gallery1" class="full" caption="Untitled, inck and pencil on paper, 10 * 14 cm" %}

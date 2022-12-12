@@ -13,25 +13,25 @@ gallery1:
   - url: assets/images/reality-and-imagination/im2.jpg
     image_path: assets/images/reality-and-imagination/im2.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
 gallery2:
   - url: assets/images/reality-and-imagination/im1.jpg
     image_path: assets/images/reality-and-imagination/im1.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
   - url: assets/images/reality-and-imagination/im3.jpg
     image_path: assets/images/reality-and-imagination/im3.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
 gallery3:
   - url: assets/images/reality-and-imagination/im4.jpg
     image_path: assets/images/reality-and-imagination/im4.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
   - url: assets/images/reality-and-imagination/im5.jpg
     image_path: assets/images/reality-and-imagination/im5.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
 ---
 
 {% include gallery id="gallery1" class="full" caption="Untitled, oil painting on canvas, 100 * 70 cm" %}

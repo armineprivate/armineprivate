@@ -13,51 +13,51 @@ gallery1:
   - url: assets/images/passing-faces/image1.jpg
     image_path: assets/images/passing-faces/image1.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
 gallery2:
   - url: assets/images/passing-faces/image2.jpg
     image_path: assets/images/passing-faces/image2.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
   - url: assets/images/passing-faces/image3.jpg
     image_path: assets/images/passing-faces/image3.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
 gallery3:
   - url: assets/images/passing-faces/image4.jpg
     image_path: assets/images/passing-faces/image4.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
   - url: assets/images/passing-faces/image5.jpg
     image_path: assets/images/passing-faces/image5.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
   - url: assets/images/passing-faces/image6.jpg
     image_path: assets/images/passing-faces/image6.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
 gallery4:
   - url: assets/images/passing-faces/image7.jpg
     image_path: assets/images/passing-faces/image7.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
   - url: assets/images/passing-faces/image8.jpg
     image_path: assets/images/passing-faces/image8.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
 gallery5:
   - url: assets/images/passing-faces/image9.jpg
     image_path: assets/images/passing-faces/image9.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
   - url: assets/images/passing-faces/image10.jpg
     image_path: assets/images/passing-faces/image10.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"	 
+    title: ""	 
   - url: assets/images/passing-faces/image11.jpg
     image_path: assets/images/passing-faces/image11.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
 gallery6:
   - url: assets/images/passing-faces/image12.jpg
     image_path: assets/images/passing-faces/image12.jpg

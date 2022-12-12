@@ -14,40 +14,40 @@ gallery1:
   - url: assets/images/doppelganger/image1.jpg
     image_path: assets/images/doppelganger/image1.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
 gallery2:
   - url: assets/images/doppelganger/image2.jpg
     image_path: assets/images/doppelganger/image2.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
   - url: assets/images/doppelganger/image3.jpg
     image_path: assets/images/doppelganger/image3.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
   - url: assets/images/doppelganger/image4.jpg
     image_path: assets/images/doppelganger/image4.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
   - url: assets/images/doppelganger/image5.jpg
     image_path: assets/images/doppelganger/image5.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
   - url: assets/images/doppelganger/image6.jpg
     image_path: assets/images/doppelganger/image6.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
   - url: assets/images/doppelganger/image7.jpg
     image_path: assets/images/doppelganger/image7.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
   - url: assets/images/doppelganger/image8.jpg
     image_path: assets/images/doppelganger/image8.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
   - url: assets/images/doppelganger/image9.jpg
     image_path: assets/images/doppelganger/image9.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
 ---
 
 

@@ -13,49 +13,49 @@ gallery1:
   - url: assets/images/one-thousand and-one-nights/im1.jpg
     image_path: assets/images/one-thousand and-one-nights/im1.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
 gallery2:
   - url: assets/images/one-thousand and-one-nights/im3.jpg
     image_path: assets/images/one-thousand and-one-nights/im3.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
   - url: assets/images/one-thousand and-one-nights/im.jpg
     image_path: assets/images/one-thousand and-one-nights/im.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
 gallery3:
   - url: assets/images/one-thousand and-one-nights/im4.jpg
     image_path: assets/images/one-thousand and-one-nights/im4.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
 gallery4:
   - url: assets/images/one-thousand and-one-nights/im5.jpg
     image_path: assets/images/one-thousand and-one-nights/im5.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
 gallery5:
   - url: assets/images/one-thousand and-one-nights/im8.jpg
     image_path: assets/images/one-thousand and-one-nights/im8.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
 gallery6:
   - url: assets/images/one-thousand and-one-nights/im7.jpg
     image_path: assets/images/one-thousand and-one-nights/im7.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
 gallery7:
   - url: assets/images/one-thousand and-one-nights/im11.jpg
     image_path: assets/images/one-thousand and-one-nights/im11.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
   - url: assets/images/one-thousand and-one-nights/im10.jpg
     image_path: assets/images/one-thousand and-one-nights/im10.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
   - url: assets/images/one-thousand and-one-nights/im9.jpg
     image_path: assets/images/one-thousand and-one-nights/im9.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
 ---
 
 {% include gallery id="gallery1" class="full" caption="Untitled, oil painting on canvas, 100 * 140 cm" %}

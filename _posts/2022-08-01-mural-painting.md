@@ -13,47 +13,47 @@ gallery1:
   - url: assets/images/mural-painting/image1.jpg
     image_path: assets/images/mural-painting/image1.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
 gallery2:
   - url: assets/images/mural-painting/image2.jpg
     image_path: assets/images/mural-painting/image2.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
   - url: assets/images/mural-painting/image3.jpg
     image_path: assets/images/mural-painting/image3.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
 gallery3:
   - url: assets/images/mural-painting/image4.jpg
     image_path: assets/images/mural-painting/image4.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
   - url: assets/images/mural-painting/image5.jpg
     image_path: assets/images/mural-painting/image5.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
   - url: assets/images/mural-painting/image6.jpg
     image_path: assets/images/mural-painting/image6.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
   - url: assets/images/mural-painting/image7.jpg
     image_path: assets/images/mural-painting/image7.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
 gallery4:
   - url: assets/images/mural-painting/image8.jpg
     image_path: assets/images/mural-painting/image8.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
   - url: assets/images/mural-painting/image9.jpg
     image_path: assets/images/mural-painting/image9.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
 gallery5:	
   - url: assets/images/mural-painting/image10.jpg
     image_path: assets/images/mural-painting/image10.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
 ---
 
 {% include gallery id="gallery1" class="full" caption="" %}

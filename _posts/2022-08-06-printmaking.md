@@ -12,50 +12,50 @@ gallery1:
   - url: assets/images/printmaking/image1.jpg
     image_path: assets/images/printmaking/image1.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
 gallery2:
   - url: assets/images/printmaking/image2.jpg
     image_path: assets/images/printmaking/image2.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
   - url: assets/images/printmaking/image3.jpg
     image_path: assets/images/printmaking/image3.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
   - url: assets/images/printmaking/image4.jpg
     image_path: assets/images/printmaking/image4.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
 gallery3:
   - url: assets/images/printmaking/image5.jpg
     image_path: assets/images/printmaking/image5.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
   - url: assets/images/printmaking/image6.jpg
     image_path: assets/images/printmaking/image6.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
 gallery4:
   - url: assets/images/printmaking/image7.jpg
     image_path: assets/images/printmaking/image7.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
   - url: assets/images/printmaking/image8.jpg
     image_path: assets/images/printmaking/image8.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
   - url: assets/images/printmaking/image9.jpg
     image_path: assets/images/printmaking/image9.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
   - url: assets/images/printmaking/image11.jpg
     image_path: assets/images/printmaking/image11.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
   - url: assets/images/printmaking/image12.jpg
     image_path: assets/images/printmaking/image12.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
 ---
 
 {% include gallery id="gallery1" class="full" caption="Untitled, lino print, 21 * 30 cm" %}

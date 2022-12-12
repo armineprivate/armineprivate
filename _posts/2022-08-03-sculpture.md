@@ -12,37 +12,37 @@ gallery1:
   - url: assets/images/sculpture/image1.jpg
     image_path: assets/images/sculpture/image1.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
 gallery2:
   - url: assets/images/sculpture/image21.jpg
     image_path: assets/images/sculpture/image21.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
   - url: assets/images/sculpture/image31.jpg
     image_path: assets/images/sculpture/image31.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
   - url: assets/images/sculpture/image41.jpg
     image_path: assets/images/sculpture/image41.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
 gallery3:	
   - url: assets/images/sculpture/image5.jpg
     image_path: assets/images/sculpture/image5.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
   - url: assets/images/sculpture/image6.jpg
     image_path: assets/images/sculpture/image6.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
   - url: assets/images/sculpture/image9.jpg
     image_path: assets/images/sculpture/image9.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
   - url: assets/images/sculpture/image8.jpg
     image_path: assets/images/sculpture/image8.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
 ---
 
 
