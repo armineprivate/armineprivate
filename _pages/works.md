@@ -8,4 +8,4 @@ entries_layout: grid # list or grid
 header:
   overlay_image: # assets/images/header/cell.png
 ---
-[Download Portfolio as PDF](/assets/pdf/armin-goudarzi-portfolio.pdf){: .btn .btn--primary}
+[Download my Portfolio as PDF](/assets/pdf/armin-goudarzi-portfolio.pdf){: .btn .btn--primary}

@@ -16,8 +16,8 @@ toc_label: Sections
 toc_sticky: true
 ---
 
-[Download Portfolio as PDF](/assets/pdf/armin-goudarzi-portfolio.pdf){: .btn .btn--primary}
-[Download CV as PDF](/assets/pdf/armin-goudarzi-cv.pdf){: .btn .btn--primary}
+[Download my CV as PDF](/assets/pdf/armin-goudarzi-cv.pdf){: .btn .btn--primary}
+[Download my Portfolio as PDF](/assets/pdf/armin-goudarzi-portfolio.pdf){: .btn .btn--primary}
 
 ## Contact Information
 
