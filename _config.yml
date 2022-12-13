@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Armin Goudarzi"
   avatar           : "assets/images/new-avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A visual artist focused on oil painting."
+  bio              : "A visual artist focused on oil painting"
   location         : "Iran, Tehran"
   email            : "armineprivate@gmail.com"
   links:

@@ -1,16 +1,16 @@
 ---
 title: "Curriculum Vitae"
 permalink: /cv/
-excerpt: ""
+#excerpt: ""
 layout: single
 author_profile: true
-header:
-  overlay_image: # assets/images/header/cell.png
-  actions:
-    - label: "Portfolio Booklet"
-      url: assets/pdf/armin-goudarzi-portfolio.pdf
-    - label: "CV PDF Version"
-      url: assets/pdf/armin-goudarzi-cv.pdf
+#header:
+#  overlay_image: 
+#  actions:
+#    - label: "Portfolio Booklet"
+#      url: assets/pdf/armin-goudarzi-portfolio.pdf
+#    - label: "CV PDF Version"
+#      url: assets/pdf/armin-goudarzi-cv.pdf
 toc: true
 toc_label: Sections
 toc_sticky: true
@@ -24,7 +24,7 @@ toc_sticky: true
 - **Location:** Tehran, Iran
 - **Website:** [**armin-goudarzi.com**](https://armin-goudarzi.com/)
 - **Email:** [armineprivate@gmail.com](mailto:armineprivate@gmail.com)
-- **Phone:** +989353991386
+- **Phone:** +98 935 399 1386
 - **Profiles:**
   - **LinkedIn:** [armin-goudarzi](https://inkedin.com/in/armin-goudarzi)
   - **Instagram:** [goudarzi\_armin](https://instagram.com/goudarzi_armin)

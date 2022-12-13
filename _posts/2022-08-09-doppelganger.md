@@ -8,45 +8,45 @@ tags:
   - portrait
   - figurative
 header:
-  image: # assets/images/header/cell.png
+#  image: 
   teaser: assets/images/teaser/doppelganger-teaser.jpg 
 gallery1:
   - url: assets/images/doppelganger/image1.jpg
     image_path: assets/images/doppelganger/image1.jpg
-    alt: "placeholder image 1"
+    alt: ""
     title: ""
 gallery2:
   - url: assets/images/doppelganger/image2.jpg
     image_path: assets/images/doppelganger/image2.jpg
-    alt: "placeholder image 1"
+    alt: ""
     title: ""
   - url: assets/images/doppelganger/image3.jpg
     image_path: assets/images/doppelganger/image3.jpg
-    alt: "placeholder image 1"
+    alt: ""
     title: ""
   - url: assets/images/doppelganger/image4.jpg
     image_path: assets/images/doppelganger/image4.jpg
-    alt: "placeholder image 1"
+    alt: ""
     title: ""
   - url: assets/images/doppelganger/image5.jpg
     image_path: assets/images/doppelganger/image5.jpg
-    alt: "placeholder image 1"
+    alt: ""
     title: ""
   - url: assets/images/doppelganger/image6.jpg
     image_path: assets/images/doppelganger/image6.jpg
-    alt: "placeholder image 1"
+    alt: ""
     title: ""
   - url: assets/images/doppelganger/image7.jpg
     image_path: assets/images/doppelganger/image7.jpg
-    alt: "placeholder image 1"
+    alt: ""
     title: ""
   - url: assets/images/doppelganger/image8.jpg
     image_path: assets/images/doppelganger/image8.jpg
-    alt: "placeholder image 1"
+    alt: ""
     title: ""
   - url: assets/images/doppelganger/image9.jpg
     image_path: assets/images/doppelganger/image9.jpg
-    alt: "placeholder image 1"
+    alt: ""
     title: ""
 ---
 

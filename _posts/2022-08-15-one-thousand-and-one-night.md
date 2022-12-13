@@ -7,54 +7,54 @@ tags:
   - painting
   - figurative
 header:
-  image: # assets/images/header/cell.png
+#  image: 
   teaser: assets/images/teaser/one-thousand and-one-nights-t.jpg
 gallery1:
   - url: assets/images/one-thousand and-one-nights/im1.jpg
     image_path: assets/images/one-thousand and-one-nights/im1.jpg
-    alt: "placeholder image 1"
+    alt: ""
     title: ""
 gallery2:
   - url: assets/images/one-thousand and-one-nights/im3.jpg
     image_path: assets/images/one-thousand and-one-nights/im3.jpg
-    alt: "placeholder image 1"
+    alt: ""
     title: ""
   - url: assets/images/one-thousand and-one-nights/im.jpg
     image_path: assets/images/one-thousand and-one-nights/im.jpg
-    alt: "placeholder image 1"
+    alt: ""
     title: ""
 gallery3:
   - url: assets/images/one-thousand and-one-nights/im4.jpg
     image_path: assets/images/one-thousand and-one-nights/im4.jpg
-    alt: "placeholder image 1"
+    alt: ""
     title: ""
 gallery4:
   - url: assets/images/one-thousand and-one-nights/im5.jpg
     image_path: assets/images/one-thousand and-one-nights/im5.jpg
-    alt: "placeholder image 1"
+    alt: ""
     title: ""
 gallery5:
   - url: assets/images/one-thousand and-one-nights/im8.jpg
     image_path: assets/images/one-thousand and-one-nights/im8.jpg
-    alt: "placeholder image 1"
+    alt: ""
     title: ""
 gallery6:
   - url: assets/images/one-thousand and-one-nights/im7.jpg
     image_path: assets/images/one-thousand and-one-nights/im7.jpg
-    alt: "placeholder image 1"
+    alt: ""
     title: ""
 gallery7:
   - url: assets/images/one-thousand and-one-nights/im11.jpg
     image_path: assets/images/one-thousand and-one-nights/im11.jpg
-    alt: "placeholder image 1"
+    alt: ""
     title: ""
   - url: assets/images/one-thousand and-one-nights/im10.jpg
     image_path: assets/images/one-thousand and-one-nights/im10.jpg
-    alt: "placeholder image 1"
+    alt: ""
     title: ""
   - url: assets/images/one-thousand and-one-nights/im9.jpg
     image_path: assets/images/one-thousand and-one-nights/im9.jpg
-    alt: "placeholder image 1"
+    alt: ""
     title: ""
 ---
 
