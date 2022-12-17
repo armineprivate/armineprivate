@@ -5,11 +5,11 @@ excerpt: ""
 layout: single
 classes: wide
 author_profile: true
-header:
-  overlay_image: # assets/images/header/header.png
-  actions:
-   - label: "CV PDF Version"
-     url: assets/pdf/armin-goudarzi-cv.pdf
+#header:
+#  overlay_image: # assets/images/header/header.png
+#  actions:
+#   - label: "CV PDF Version"
+#     url: assets/pdf/armin-goudarzi-cv.pdf
 ---
 
 [View my CV](/assets/pdf/armin-goudarzi-cv.pdf){: .btn .btn--primary}
