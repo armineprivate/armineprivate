@@ -2,7 +2,7 @@
 layout: single
 title: "One Thousand and One Nights"
 excerpt: ""
-permalink: /works/one-thousand-and-one-nights
+permalink: /works/one-thousand-and-one-nights/
 tags:
   - painting
   - figurative

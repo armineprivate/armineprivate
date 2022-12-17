@@ -2,7 +2,7 @@
 layout: single
 title: "Unknown Moment"
 excerpt: ""
-permalink: /works/unknown-moment
+permalink: /works/unknown-moment/
 tags:
   - painting
   - figurative

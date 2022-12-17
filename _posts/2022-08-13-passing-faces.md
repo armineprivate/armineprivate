@@ -2,7 +2,7 @@
 layout: single
 title: "Passing Faces"
 excerpt: ""
-permalink: /works/passing-faces
+permalink: /works/passing-faces/
 tags:
   - painting
   - figurative

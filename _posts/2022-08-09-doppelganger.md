@@ -2,7 +2,7 @@
 layout: single
 title: "Doppelganger"
 excerpt: ""
-permalink: /works/doppelganger
+permalink: /works/doppelganger/
 tags:
   - drawing
   - portrait

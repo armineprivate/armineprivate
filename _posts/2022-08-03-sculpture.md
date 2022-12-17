@@ -2,7 +2,7 @@
 layout: single
 title: "Sculpture"
 excerpt: ""
-permalink: /works/sculpture
+permalink: /works/sculpture/
 tags:
   - sculpture
 header:

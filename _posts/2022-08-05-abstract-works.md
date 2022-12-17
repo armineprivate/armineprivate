@@ -2,7 +2,7 @@
 layout: single
 title: "Abstract Works"
 excerpt: ""
-permalink: /works/abstract-works
+permalink: /works/abstract-works/
 tags:
   - painting
   - abstract

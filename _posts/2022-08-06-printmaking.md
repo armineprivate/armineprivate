@@ -2,7 +2,7 @@
 layout: single
 title: "Printmaking"
 excerpt: ""
-permalink: /works/printmaking
+permalink: /works/printmaking/
 tags:
   - printmaking
 header:

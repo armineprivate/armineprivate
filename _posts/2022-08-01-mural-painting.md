@@ -2,7 +2,7 @@
 layout: single
 title: "Mural Painting"
 #excerpt: ""
-permalink: /works/mural-painting
+permalink: /works/mural-painting/
 tags:
   - painting
   - mural painting

@@ -2,7 +2,7 @@
 layout: single
 title: "Reality and Imagination"
 excerpt: ""
-permalink: /works/reality-and-imagination
+permalink: /works/reality-and-imagination/
 tags:
   - painting
   - figurative

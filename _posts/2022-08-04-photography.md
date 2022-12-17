@@ -2,7 +2,7 @@
 layout: single
 title: "Photography"
 excerpt: ""
-permalink: /works/photography
+permalink: /works/photography/
 tags:
   - photography
 header:
