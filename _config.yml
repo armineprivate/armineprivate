@@ -21,11 +21,11 @@ title_separator          : "-"
 subtitle                 : "Visual Artist" # site tagline that appears below site title in masthead
 name                     : "Armin Goudarzi"
 description              : "Armin Goudarzi (visual artist)."
-url                      : "armin-goudarzi.com"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://armin-goudarzi.com"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "armineprivate/armineprivate" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "assets/images/teaser/default.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "assets/images/eye-logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : "/assets/images/teaser/default.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : "/assets/images/eye-logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Armin Goudarzi" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -86,7 +86,7 @@ facebook:
   username               : "armin"
   app_id                 :
   publisher              :
-og_image                 : "assets/images/logo.png" # Open Graph/Twitter default site image
+og_image                 : "/assets/images/new-avatar.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Armin Goudarzi"
-  avatar           : "assets/images/new-avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/new-avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A visual artist focused on oil painting"
   location         : "Iran, Tehran"
   email            : "armineprivate@gmail.com"
