@@ -43,6 +43,11 @@ gallery3:
     image_path: assets/images/sculpture/image8.jpg
     alt: ""
     title: ""
+gallery4:	
+  - url: assets/images/sculpture/image42.jpg
+    image_path: assets/images/sculpture/image42.jpg
+    alt: ""
+    title: ""
 ---
 
 
@@ -55,3 +60,4 @@ I occasionally create tiny wooden sculptures to better understand and experience
 
 {% include gallery id="gallery3" class="full" layout="half" caption="" %}
 
+{% include gallery id="gallery4" class="full" caption="" %}
