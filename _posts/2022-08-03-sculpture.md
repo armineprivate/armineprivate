@@ -44,7 +44,7 @@ gallery3:
     alt: ""
     title: ""
 gallery4:	
-  - url: assets/images/sculpture/image42.jpg
+  - url: assets/images/sculpture/image51.jpg
     image_path: assets/images/sculpture/image42.jpg
     alt: ""
     title: ""
