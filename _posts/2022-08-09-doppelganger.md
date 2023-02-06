@@ -44,6 +44,10 @@ gallery2:
     image_path: assets/images/doppelganger/image8.jpg
     alt: ""
     title: ""
+  - url: assets/images/doppelganger/image10.jpg
+    image_path: assets/images/doppelganger/image10.jpg
+    alt: ""
+    title: ""
   - url: assets/images/doppelganger/image9.jpg
     image_path: assets/images/doppelganger/image9.jpg
     alt: ""
