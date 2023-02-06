@@ -52,6 +52,10 @@ gallery4:
     image_path: assets/images/printmaking/image11.jpg
     alt: ""
     title: ""
+  - url: assets/images/printmaking/image10.jpg
+    image_path: assets/images/printmaking/image10.jpg
+    alt: ""
+    title: ""
   - url: assets/images/printmaking/image12.jpg
     image_path: assets/images/printmaking/image12.jpg
     alt: ""
