@@ -12,9 +12,8 @@ author_profile: true
 #     url: assets/pdf/armin-goudarzi-cv.pdf
 ---
 
-[View my CV](/assets/pdf/armin-goudarzi-cv.pdf){: .btn .btn--primary}
 [Download my CV as PDF](/assets/pdf/armin-goudarzi-cv.pdf){: .btn .btn--primary}
-[Download my Portfolio as PDF](/assets/pdf/armin-goudarzi-portfolio.pdf){: .btn .btn--primary}
+[Download my Portfolio as PDF](/assets/pdf/armin-goudarzi-portfolio-update-2023.pdf){: .btn .btn--primary}
 
 I can describe myself as a curious, insurgent, and creative artist and a bit of an idealist. I graduated in painting from the University of Tehran. Throughout my education, I made use of a wide range of tools, techniques, and mediums, from the visual arts to cinema and literature, and this practice has continued into my professional life until today. 
 

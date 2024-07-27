@@ -8,7 +8,7 @@ author_profile: true
 #  overlay_image: 
 #  actions:
 #    - label: "Portfolio Booklet"
-#      url: assets/pdf/armin-goudarzi-portfolio.pdf
+#      url: assets/pdf/armin-goudarzi.pdf
 #    - label: "CV PDF Version"
 #      url: assets/pdf/armin-goudarzi-cv.pdf
 toc: true
@@ -17,7 +17,7 @@ toc_sticky: true
 ---
 
 [Download my CV as PDF](/assets/pdf/armin-goudarzi-cv.pdf){: .btn .btn--primary}
-[Download my Portfolio as PDF](/assets/pdf/armin-goudarzi-portfolio.pdf){: .btn .btn--primary}
+[Download my Portfolio as PDF](/assets/pdf/armin-goudarzi-portfolio-update-2023.pdf){: .btn .btn--primary}
 
 ## Contact Information
 
@@ -71,6 +71,8 @@ toc_sticky: true
 
 ## Professional Experiences
 
+- 2023-2024 &emsp; Sound and Director Assistant &emsp; Thanks to Noori Family Documentary Movie
+- 2022 &emsp; Actor and Art Consultor &emsp; Dark Matter Movie
 - 2021 &emsp; Backstage Photographer &emsp; Tayyebeh Khanum Documentary Movie
 - 2020 &emsp; Graphic Designer &emsp; Bi-Kerayeh TV Show
 - 2018 &emsp; Film Editor &emsp; Cinema-Guneh TV Show
