@@ -71,7 +71,7 @@ toc_sticky: true
 
 ## Professional Experiences
 
-- 2023-2024 &emsp; Sound and Director Assistant &emsp; Thanks to Noori Family Documentary Movie
+- 2023-2024 &emsp; Sound and Director Assistant &emsp; Noori Family Documentary Movie
 - 2022 &emsp; Actor and Art Consultor &emsp; Dark Matter Movie
 - 2021 &emsp; Backstage Photographer &emsp; Tayyebeh Khanum Documentary Movie
 - 2020 &emsp; Graphic Designer &emsp; Bi-Kerayeh TV Show
