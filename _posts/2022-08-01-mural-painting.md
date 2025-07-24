@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Mural Painting"
-#excerpt: ""
+excerpt: ""
 permalink: /works/mural-painting/
 tags:
   - painting
