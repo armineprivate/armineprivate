@@ -16,7 +16,7 @@ toc_label: Sections
 toc_sticky: true
 ---
 
-[Download my CV as PDF](/assets/pdf/armin-goudarzi-cv.pdf){: .btn .btn--primary}
+[Download my CV as PDF](/assets/pdf/armin-goudarzi-cv-update-2025.pdf){: .btn .btn--primary}
 [Download my Portfolio as PDF](/assets/pdf/armin-goudarzi-portfolio-update-2023.pdf){: .btn .btn--primary}
 
 ## Contact Information
@@ -36,10 +36,11 @@ toc_sticky: true
   - **Minor:** Painting
 
 - pre-university &emsp; 2007 &emsp; Farabi vocational school
-  - Graphic Design
+  - Art
 
 ## Solo Exhibition
 
+- 2025 &emsp; Drawing Selection &emsp; Rangavaz Gallery
 - 2022 &emsp; One ThousandAnd One Night &emsp; LearakHouse
 - 2022 &emsp; Passing Faces &emsp; Dast-e Akhar Gallery
 - 2021 &emsp; A Tale of an Unknown Moment &emsp; LearakHouse
@@ -71,7 +72,7 @@ toc_sticky: true
 
 ## Professional Experiences
 
-- 2023-2024 &emsp; Sound and Director Assistant &emsp; Noori Family Documentary Movie
+- 2023-2024 &emsp; Sound and Director Assistant &emsp; Ghalouni Documentary Movie
 - 2022 &emsp; Actor and Art Consultor &emsp; Dark Matter Movie
 - 2021 &emsp; Backstage Photographer &emsp; Tayyebeh Khanum Documentary Movie
 - 2020 &emsp; Graphic Designer &emsp; Bi-Kerayeh TV Show
@@ -79,7 +80,7 @@ toc_sticky: true
 
 ## Teaching
 
-- 2017-2021 &emsp; Educator of Painting and Drawing &emsp; Rang Avaz Institution of Art
+- 2017-Present &emsp; Educator of Painting and Drawing &emsp; Rang Avaz Institution of Art
 
 ## Volunteering Activities
 
