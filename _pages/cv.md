@@ -16,7 +16,7 @@ toc_label: Sections
 toc_sticky: true
 ---
 
-[Download my CV as PDF](/assets/pdf/armin-goudarzi-cv-update-2025.pdf){: .btn .btn--primary}
+[Download my CV as PDF](/assets/pdf/armin-goudarzi-cv-update-2025-2.pdf){: .btn .btn--primary}
 [Download my Portfolio as PDF](/assets/pdf/armin-goudarzi-portfolio-update-2023.pdf){: .btn .btn--primary}
 
 ## Contact Information
@@ -72,6 +72,7 @@ toc_sticky: true
 
 ## Professional Experiences
 
+- 2020-Present &emsp; Board Member &emsp; Gouy-e-Khiyalangiz Art Institution &emsp; www.ketabekhodam.ir
 - 2023-2024 &emsp; Sound and Director Assistant &emsp; Ghalouni Documentary Movie
 - 2022 &emsp; Actor and Art Consultor &emsp; Dark Matter Movie
 - 2021 &emsp; Backstage Photographer &emsp; Tayyebeh Khanum Documentary Movie
