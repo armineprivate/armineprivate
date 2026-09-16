@@ -72,8 +72,8 @@ gallery5:
   - url: assets/images/printmaking/image18.jpg
     image_path: assets/images/printmaking/image18.jpg
     alt: ""
-    title: ""	
-	  - url: assets/images/printmaking/image19.jpg
+    title: ""
+  - url: assets/images/printmaking/image19.jpg
     image_path: assets/images/printmaking/image19.jpg
     alt: ""
     title: ""
@@ -113,8 +113,8 @@ gallery6:
   - url: assets/images/printmaking/image28.jpg
     image_path: assets/images/printmaking/image28.jpg
     alt: ""
-    title: ""	
-	  - url: assets/images/printmaking/image29.jpg
+    title: ""
+  - url: assets/images/printmaking/image29.jpg
     image_path: assets/images/printmaking/image29.jpg
     alt: ""
     title: ""
@@ -129,7 +129,7 @@ gallery6:
   - url: assets/images/printmaking/image32.jpg
     image_path: assets/images/printmaking/image32.jpg
     alt: ""
-    title: ""	
+    title: ""
 ---
 
 {% include gallery id="gallery1" class="full" caption="Untitled, Mono print, 39.5 * 39.5 cm" %}
@@ -148,4 +148,4 @@ After all, unlike other mediums which sometimes tend to be tedious and daunting,
 
 {% include gallery id="gallery5" class="full" layout="third" caption="untitled, Mono print, 39.5 * 39.5 cm" %}
 
-{% include gallery id="gallery5" class="full" layout="third" caption="untitled, Mono print, A3" %}
+{% include gallery id="gallery6" class="full" layout="third" caption="untitled, Mono print, A3" %}
