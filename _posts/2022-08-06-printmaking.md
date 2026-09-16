@@ -132,7 +132,7 @@ gallery6:
     title: ""	
 ---
 
-{% include gallery id="gallery1" class="full" caption="Untitled, lino print, 21 * 30 cm" %}
+{% include gallery id="gallery1" class="full" caption="Untitled, Mono print, 39.5 * 39.5 cm" %}
 
 
 My professional knowledge of printmaking dates to college. We studied a variety of printmaking techniques, such as etching, mono print, and linocut. Linocut was my favorite because of how appealing and genuine its fully contrasting atmosphere was to me. Additionally, this technique did not call for any expensive or sophisticated instruments, which for me as a student, made it much more practical.
@@ -146,6 +146,6 @@ After all, unlike other mediums which sometimes tend to be tedious and daunting,
 
 {% include gallery id="gallery4" class="full" layout="third" caption="untitled, Lino print, 30 * 42 cm" %}
 
-{% include gallery id="gallery5" class="full" layout="third" caption="untitled, Mono print, A3" %}
+{% include gallery id="gallery5" class="full" layout="third" caption="untitled, Mono print, 39.5 * 39.5 cm" %}
 
 {% include gallery id="gallery5" class="full" layout="third" caption="untitled, Mono print, A3" %}
